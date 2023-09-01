@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Lengmoquqi"
 include ':app'
+include ':androidx'
+include ':javax'
